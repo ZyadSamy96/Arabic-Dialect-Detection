@@ -1,0 +1,4 @@
+BOW
+TFIDF with N-Gram
+GRU
+LSTM
